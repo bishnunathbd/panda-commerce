@@ -1,7 +1,7 @@
 .container{
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
-.carousel-bg{
+.lightpink-bg{
   background-color: #fceae8;
   border-radius: 10px;
 }
@@ -49,4 +49,8 @@
 .card-footer{
   border-top: none;
   background-color: white;
+}
+/* subscribe */
+#subscribe{
+  height: 300px;
 }
