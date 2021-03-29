@@ -21,3 +21,21 @@
   font-weight: 700;
   cursor: pointer;
 }
+
+/* categories */
+.categories img{
+  width: 100px;
+}
+#cat1{
+  background-color: orange;
+}
+#cat2{
+  background-color: orchid;
+}
+#cat3{
+  background-color: blue;
+}
+#cat1, #cat2, #cat3{
+  padding: 10px 20px;
+  border-radius: 10px;
+}
